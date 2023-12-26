@@ -1,0 +1,13 @@
+4
+David John
+M
+76.800000
+Marry Chen
+F
+80.400000
+Kim Christ
+M
+70.000000
+aaaaabbbbbcccccdddddeeeeefffff
+F
+0.000000
